@@ -14,7 +14,7 @@
 
   <li>📬 Reach me at <a href="mailto:saifulbranding@gmail.com">saifulbrandign@gmail.com</a></li>
 
-  <li>📄 Portfolio → <a href="https:#.vercel.app" target="_blank">smfaysalhaque.vercel.app</a></li>
+  <li>📄 Portfolio → <a href="https:#.vercel.app" target="_blank">#</a></li>
 
   <li>📍 Based in <strong>Dhaka, Bangladesh</strong> · Open to remote &amp; on-site.</li>
 </ul>
