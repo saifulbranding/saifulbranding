@@ -1,10 +1,24 @@
-🎨 About Me
-💻 Software Engineer with 3+ years building fast, accessible, and maintainable production web applications.
-⚡ Deep frontend expertise across the React / Next.js and Vue / Nuxt ecosystems, with hands-on Go, Express, MongoDB, and PostgreSQL work.
-🧱 I care about clean architecture, type safety, and interfaces that feel effortless to use.
-🌐 Currently shipping production apps with Next.js 16, React 19, and TypeScript.
-🌱 Always learning — exploring backend systems with Go, Node.js, and Express.js, plus distributed data patterns.
-📬 Reach me at saifulbranding@gmail.com
+
+<h2>🧭 About Me</h2>
+
+<ul>
+  <li>💻 <strong>Software Engineer</strong> with 3+ years building fast, accessible, and maintainable production web applications.</li>
+
+  <li>⚡ Deep frontend expertise across the <strong>React / Next.js</strong> and <strong>Vue / Nuxt</strong> ecosystems, with hands-on Go, Express, MongoDB, and PostgreSQL work.</li>
+
+  <li>🧱 I care about clean architecture, type safety, and interfaces that feel effortless to use.</li>
+
+  <li>🌐 Currently shipping production apps with <strong>Next.js 16, React 19, and TypeScript</strong>.</li>
+
+  <li>🌱 Always learning — exploring advancements with Go, Node.js, and Express.js, plus distributed data patterns.</li>
+
+  <li>📬 Reach me at <a href="mailto:smfaysalhaque007@gmail.com">smfaysalhaque007@gmail.com</a></li>
+
+  <li>📄 Portfolio → <a href="https://smfaysalhaque.vercel.app" target="_blank">smfaysalhaque.vercel.app</a></li>
+
+  <li>📍 Based in <strong>Dhaka, Bangladesh</strong> · Open to remote &amp; on-site.</li>
+</ul>
+
 📄 Portfolio → #
 📍 Based in Dhaka, Bangladesh · Open to remote & on-site.
 <--->
