@@ -22,7 +22,7 @@
 <hr>
 <h3>📄 Portfolio</h3>
 📍 Based in Dhaka, Bangladesh · Open to remote & on-site.
-
+<hr>
 <h3>🔗 Follow Me</h3>
 <a href="https://#.vercel.app">
 <img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge" />
@@ -36,7 +36,7 @@
 <a href="saifulbranding@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<hr>
 <h3>🛠️ Tech Stack</h3>
 Languages
 <p>
