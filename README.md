@@ -1,4 +1,6 @@
 
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a></p>
+
 <h2>🧭 About Me</h2>
 <p align="left">
 <ul>
