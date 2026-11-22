@@ -19,9 +19,7 @@
   <li>📍 Based in <strong>Dhaka, Bangladesh</strong> · Open to remote &amp; on-site.</li>
 </ul>
 </p>
-<hr>
-<h3>📄 Portfolio</h3>
-📍 Based in Dhaka, Bangladesh · Open to remote & on-site.
+
 <hr>
 <h3>🔗 Follow Me</h3>
 <a href="https://#.vercel.app">
