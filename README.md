@@ -12,7 +12,7 @@
 
   <li>🌱 Always learning — exploring advancements with Go, Node.js, and Express.js, plus distributed data patterns.</li>
 
-  <li>📬 Reach me at <a href="mailto:smfaysalhaque007@gmail.com">smfaysalhaque007@gmail.com</a></li>
+  <li>📬 Reach me at <a href="mailto:saifulbranding@gmail.com">saifulbrandign@gmail.com</a></li>
 
   <li>📄 Portfolio → <a href="https://smfaysalhaque.vercel.app" target="_blank">smfaysalhaque.vercel.app</a></li>
 
@@ -21,9 +21,8 @@
 </p>
 📄 Portfolio → #
 📍 Based in Dhaka, Bangladesh · Open to remote & on-site.
-<--->
-🔗 Follow Me
-<p align="left">
+
+<h3>🔗 Follow Me</h3>
 <a href="https://#.vercel.app">
 <img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge" />
 </a>
@@ -33,12 +32,11 @@
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:smfaysalhaque007@gmail.com">
+<a href="saifulbranding@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 Languages
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
