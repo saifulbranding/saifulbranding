@@ -1,6 +1,6 @@
 
 <h2>🧭 About Me</h2>
-
+<p align="left">
 <ul>
   <li>💻 <strong>Software Engineer</strong> with 3+ years building fast, accessible, and maintainable production web applications.</li>
 
@@ -18,7 +18,7 @@
 
   <li>📍 Based in <strong>Dhaka, Bangladesh</strong> · Open to remote &amp; on-site.</li>
 </ul>
-
+</p>
 📄 Portfolio → #
 📍 Based in Dhaka, Bangladesh · Open to remote & on-site.
 <--->
