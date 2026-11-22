@@ -7,6 +7,7 @@
 📬 Reach me at saifulbranding@gmail.com
 📄 Portfolio → #
 📍 Based in Dhaka, Bangladesh · Open to remote & on-site.
+---
 🔗 Follow Me
 <p align="left">
 <a href="https://#.vercel.app">
